@@ -1,0 +1,14 @@
+{
+	"description": "Subtitle provider (subs.sab.bz/subsunacs.net/addic7ed.com)",
+	"author": "Stew",
+	"homepage": "",
+	"title": "Bulgarian Subtitles",
+	"synopsis": "Provider for Bulgarian Subtitles",
+	"version": "3.0.0",
+	"file": "subsBG.js",
+	"showtimeVersion": "4.9",
+	"type": "ecmascript",
+	"id": "subsBG",
+	"icon": "logo.png",
+	"category": "subtitles"
+}
